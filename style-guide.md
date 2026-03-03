@@ -8,7 +8,7 @@ Los diseños de referencia están pensados para los siguientes anchos:
 - Desktop: 1440px
 
 El contenido debe ser responsive y funcionar correctamente en cualquier tamaño entre 320px y pantallas grandes.
-
+tarea de profesor
 ## Colores
 
 ```css
